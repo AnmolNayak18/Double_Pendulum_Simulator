@@ -22,11 +22,6 @@ Prerequisites
 Java Development Kit (JDK) 8 or higher
 Git (optional, for cloning the repository)
 
-Installation
-
-Clone this repository (or download as ZIP):
-git clone https://github.com/yourusername/DoublePendulumSimulation.git
-
 Navigate to the project directory:
 cd DoublePendulumSimulation
 
