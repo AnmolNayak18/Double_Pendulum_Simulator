@@ -1,5 +1,4 @@
 # Double_Pendulum_Simulator
-Double Pendulum Simulation
 A Java Swing application that simulates the chaotic motion of a double pendulum system with interactive controls.
 
 This application simulates a double pendulum physics system, which is a classic example of chaotic motion. The simulation allows users to adjust parameters like pendulum length and mass in real-time and observe how these changes affect the pendulum's behavior.
